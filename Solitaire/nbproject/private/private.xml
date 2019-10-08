@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>1</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/sohrabvafa/Desktop/Solitaire/includes/Cards.h</file>
+            <file>file:/home/sohrabvafa/Desktop/Solitaire/src/CardPile.cpp</file>
+            <file>file:/home/sohrabvafa/Desktop/Solitaire/includes/Utilidades.h</file>
+            <file>file:/home/sohrabvafa/Desktop/Solitaire/src/miniwin.cpp</file>
+            <file>file:/home/sohrabvafa/Desktop/Solitaire/includes/SpecialCardPiles.h</file>
+            <file>file:/home/sohrabvafa/Desktop/Solitaire/src/Utilidades.cpp</file>
+            <file>file:/home/sohrabvafa/Desktop/Solitaire/includes/CardPile.h</file>
+            <file>file:/home/sohrabvafa/Desktop/Solitaire/includes/Game.h</file>
+            <file>file:/home/sohrabvafa/Desktop/Solitaire/src/SpecialCardPiles.cpp</file>
+            <file>file:/home/sohrabvafa/Desktop/Solitaire/src/Game.cpp</file>
+            <file>file:/home/sohrabvafa/Desktop/Solitaire/src/main.cpp</file>
+        </group>
+    </open-files>
+</project-private>

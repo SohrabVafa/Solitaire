@@ -1,0 +1,7 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Practice projects for summer
+<#if licenseLast??>
+${licenseLast}
+</#if>
