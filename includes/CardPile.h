@@ -20,8 +20,8 @@ protected:
     Card *pile;
     int size;
     int util;
-    int width=120, height=200;
-//    bool selected = false;
+    static int width=120, height=200;
+
 public:
     
     int x, y;
